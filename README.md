@@ -2,6 +2,7 @@ MyNotes
 =======
 
 A small PocketBook handwriting notes application.
+![Preview](img/preview.bmp)
 
 ## Usage
 
