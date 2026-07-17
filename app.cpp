@@ -96,6 +96,7 @@ int main_handler(int event_type, int param_one, int param_two)
 				if (_current_page > 0)
 				{
 					_current_page--;
+					_ink_overlay_valid = false;
 					draw_canvas();
 					FullUpdate();
 				}
