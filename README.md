@@ -3,7 +3,7 @@ MyNotes
 
 A small handwriting note-taking application for PocketBook touchscreen e-readers running Linux.
 
-![Preview](img/preview.bmp)
+![Application preview showing a note editor, the note contains a single word - "Hello!", above it is a status bar showing the name of the note file, the current page and number of pages, and buttons for navigating between pages, below the note are three buttons, "Back", "Undo", and "Clear"](img/preview.bmp)
 
 ## Usage
 
