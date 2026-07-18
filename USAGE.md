@@ -2,7 +2,7 @@
 
 -   Tap the `+ New note` button
 -   When prompted, enter the title of the note and confirm with `Enter`
-    ![New note](img/newnote.bmp)
+    ![Main menu view showing the creation of a new note, the note list is greyed out and a keyboard overlay is shown, text has been typed in - "My new note"](img/newnote.bmp)
 -   You will be taken to the note editor
 
 # Editing a note
@@ -15,12 +15,12 @@
 -   To move between pages of a note, use the `<` and `>` buttons in the title bar, or use the `NEXT` and `PREVIOUS` hardware keys
     -   To add a new page, navigate to the last page and press the button to move one page ahead
 -   To return back to the main menu, tap the `< Back` button
-    ![Editing a note](img/editnote.bmp)
+    ![Note editor view, the note contains text "This is my new note" in block letters and below in cursive "Shopping list - milk, bread, more books", above it is a status bar showing the name of the note file, the current page and number of pages, and buttons for navigating between pages, below the note are three buttons, "Back", "Undo", and "Clear"](img/editnote.bmp)
 
 # Managing notes
 
 -   To manage notes, tap the `Select/Export` button in the main menu
-    ![Note management](img/managenotes.bmp)
+    ![Main menu view in the "Select/Export" mode, the previously show note, "My new note", is shown as selected, at the bottom of the screen are three buttons, "Cancel", "Delete", and "Export", the latter two showing the number of selected items](img/managenotes.bmp)
     -   Select and deselect notes by tapping on their titles
     -   To delete selected notes, tap the `Delete` button and confirm
     -   To export selected notes, tap the `Export` button
