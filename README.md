@@ -1,7 +1,8 @@
 MyNotes
 =======
 
-A small PocketBook handwriting notes application.
+A small handwriting note-taking application for PocketBook touchscreen e-readers running Linux.
+
 ![Preview](img/preview.bmp)
 
 ## Usage
